@@ -5,8 +5,8 @@ const Header = () => {
   return (
     <HeaderWrap>
       <HeaderInnerWrap>
-        <h3 style={{ color: COLOR_PALETTE.WHITE }}>Github Issues</h3>
-        <h3 style={{ color: COLOR_PALETTE.WHITE }}>패스트레인</h3>
+        <Title>Github Issues</Title>
+        <Company>패스트레인</Company>
       </HeaderInnerWrap>
     </HeaderWrap>
   )
@@ -26,4 +26,12 @@ const HeaderInnerWrap = styled.div`
   max-width: 1130px;
   height: 60px;
   margin: 0 auto;
+`
+
+const Title = styled.h3`
+  color: ${COLOR_PALETTE.WHITE};
+`
+
+const Company = styled.h3`
+  color: ${COLOR_PALETTE.WHITE};
 `

@@ -1,9 +1,5 @@
 export const COLOR_PALETTE = {
-  // MAIN COLOR
-  BLUE500: '#EAF3FE',
   BLUE900: '#4880EE',
-
-  // SUB COLOR
 
   // GRAY COLOR
   GRAY100: '#F6F8FA',
