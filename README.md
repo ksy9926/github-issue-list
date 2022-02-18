@@ -1,6 +1,7 @@
 # Github Issues List
 
 - Github CRA Issue API를 이용한 이슈 목록 출력 사이트
+- [**웹 사이트 바로가기**](https://ksy9926.github.io/github-issue-list/) 👈
 
 <br />
 
