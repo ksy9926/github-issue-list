@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-issue-list/static/css/main.eddde159.css",
+    "main.js": "/github-issue-list/static/js/main.dfdf9186.js",
+    "index.html": "/github-issue-list/index.html",
+    "main.eddde159.css.map": "/github-issue-list/static/css/main.eddde159.css.map",
+    "main.dfdf9186.js.map": "/github-issue-list/static/js/main.dfdf9186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eddde159.css",
+    "static/js/main.dfdf9186.js"
+  ]
+}
